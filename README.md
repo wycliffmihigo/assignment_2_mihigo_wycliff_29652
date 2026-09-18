@@ -41,9 +41,7 @@ Issues Encountered: No
 └── screenshots/
     ├── pdb_creation/
     │   └── <img width="1071" height="371" alt="PDB creation   delete" src="https://github.com/user-attachments/assets/11d27869-b0e2-47e6-9e97-cc2868857e3b" />
-
     ├── pdb_deletion/
     │   └── <img width="663" height="255" alt="PDB delete" src="https://github.com/user-attachments/assets/098fa549-50c5-4e55-9d37-d161810183a1" />
-
     └── oem_dashboard/
         └── <img width="1548" height="849" alt="OEM" src="https://github.com/user-attachments/assets/156c8aa0-defb-4d7b-98fa-cace6e7c791b" />
