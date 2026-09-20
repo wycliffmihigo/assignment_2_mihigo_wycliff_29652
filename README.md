@@ -36,8 +36,11 @@ I hereby declare that the commands executed and evidence provided in this reposi
 ## Submission Details
 
 Repository Link: https://github.com/wycliffmihigo/assignment_2_mihigo_wycliff_29652
+
 PDB Name Created: mi_pdb_29652
+
 Issues Encountered: No
+
 └── screenshots/
     ├── pdb_creation/
     │   └── <img width="1071" height="371" alt="PDB creation   delete" src="https://github.com/user-attachments/assets/11d27869-b0e2-47e6-9e97-cc2868857e3b" />
