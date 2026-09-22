@@ -5,6 +5,7 @@ I used Oracle Database 21c to create and manage a PDB, create a database user, t
 
 ---
 
+
 ## Tasks Summary
 
 ### Task 1: Create a New Pluggable Database
@@ -44,6 +45,7 @@ I confirm that I completed the commands and practical work shown in this reposit
 
  screenshots/
 
+ 
  pdb_creation/
      
     
@@ -61,5 +63,6 @@ pdb_deletion/
 
 oem_dashboard/
          
+
 <img width="1599" height="845" alt="OEM" src="https://github.com/user-attachments/assets/f9fe170f-e313-4f7b-b411-a9a2661c9e48" />
         
