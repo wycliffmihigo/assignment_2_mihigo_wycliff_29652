@@ -1,46 +1,46 @@
-assignment_2_mihigo_wycliff_29652/
+## Overview
 
-├── # Oracle Pluggable Database (PDB) Assignment II
-
-## Overview of Tasks
-This repository contains the documentation and proof of work for Assignment II covering Oracle Pluggable Database (PDB) management, user administration, and Enterprise Manager Express monitoring.
-
-## Oracle Environment Used
-- **Database Version:** Oracle Database 21c Enterprise Edition (21.3.0.0.0)
-- **Host OS:** Microsoft Windows x86 64-bit
-- **Container Database (CDB):** `ORCL`
+This repository contains my work for Assignment II on Oracle Pluggable Databases (PDBs). 
+I used Oracle Database 21c to create and manage a PDB, create a database user, test a temporary PDB and delete it, and check the database using Oracle Enterprise Manager Express.
 
 ---
 
 ## Tasks Summary
 
 ### Task 1: Create a New Pluggable Database
-- **PDB Name Created:** `mi_pdb_29652`
-- **User Created:** `Mihigo_plsqlauca_29652`
-- **Status:** Opened in `READ WRITE` mode and state saved across restarts. User created and granted DBA privileges.
+
+* PDB created: `mi_pdb_29652`
+* User created: `Mihigo_plsqlauca_29652`
+* I opened the PDB in `READ WRITE` mode and saved its state so it remains open after restarting the database.
+* The user was created and given the required privileges.
 
 ### Task 2: Create and Delete a Temporary PDB
-- **Temporary PDB Name:** `mi_to_delete_pdb_29652`
-- **Status:** Successfully created, verified, and completely dropped along with its data files.
 
-### Task 3: Oracle Enterprise Manager (OEM) Setup
-- **Interface:** Oracle Enterprise Manager Database Express
-- **Status:** OEM dashboard configured and verified displaying system resource usage and active PDBs.
+* Temporary PDB: `mi_to_delete_pdb_29652`
+* I created the temporary PDB and checked that it was working.
+* After verifying it, I deleted the PDB together with its data files.
+
+### Task 3: Oracle Enterprise Manager
+
+* Tool used: Oracle Enterprise Manager Database Express
+* I accessed the dashboard and checked the database information, resource usage, and PDB status.
+
 
 ---
 
 ## Integrity Statement
-I hereby declare that the commands executed and evidence provided in this repository are my own work completed in and research
+
+I confirm that I completed the commands and practical work shown in this repository. The screenshots were taken from my Oracle Database environment while working on the assignment.
+
 
 ---
 
 ## Submission Details
 
-Repository Link: https://github.com/wycliffmihigo/assignment_2_mihigo_wycliff_29652
+* Repository: `assignment_2_mihigo_wycliff_29652`
+* PDB created: `mi_pdb_29652`
+* Issues encountered: None
 
-PDB Name Created: mi_pdb_29652
-
-Issues Encountered: No
 
  screenshots/
 
